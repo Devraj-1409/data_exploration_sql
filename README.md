@@ -1,26 +1,24 @@
+# Data Exploration: Population Growth (1950 to 2023)
 
-# Project 1: Data Exploration - Population Growth (1950 to 2023)
-## Overview
-This project explores global population growth trends from 1950 to 2023. SQL was used to analyze key metrics, uncover trends, and compare growth rates across regions. The analysis helped derive valuable insights into population changes and their implications over time.
+## Description
+This project explores global population growth trends from 1950 to 2023. It uses SQL to analyze and extract insights, such as growth rates, region-wise comparisons, and population density metrics.
 
-3 Steps Taken:
-## Data Import:
-Population data from 1950 to 2023 was imported.
-Data was obtained from kaggle.com
+## Tools & Skills
+- SQL: Data aggregation, joins, filtering, and window functions.
+- Dataset: World population dataset from kaggle.com
+- Performed on Microsoft SQL Server
 
-## Data Cleaning:
-Removed duplicates.
-Standardized column names and ensured data types matched the required format.
+## Key Insights
+- The global population grew from 2.5 billion in 1950 to over 8 billion in 2023.
+- Asia contributed the most to global population growth, accounting for over 60% of the world's population.
+- Africa has the highest growth rate, averaging over 3% annually.
 
-## Exploratory Data Analysis (EDA):
-Performed basic queries to explore growth trends.
-Generated summary statistics and visualizations.
+## SQL Techniques Used
+- Common Table Expressions (CTEs)
+- Grouping and Aggregation
+- Window Functions
 
-## SQL Queries and Analysis:
-Aggregated population data by year and region.
-Calculated annual growth rates using SQL functions.
-Applied window functions for moving averages to smooth trends.
-
-## Insights:
-Identified regions with the highest and lowest population growth.
-Highlighted periods of rapid growth and decline.
+## Instructions
+1. Clone the repository
+2. Open the SQL script file
+3. Execute the queries in your preferred SQL environment.
