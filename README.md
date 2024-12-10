@@ -11,8 +11,8 @@ Data was obtained from kaggle.com
 ## Data Cleaning:
 Removed duplicates.
 Standardized column names and ensured data types matched the required format.
-Exploratory Data Analysis (EDA):
 
+## Exploratory Data Analysis (EDA):
 Performed basic queries to explore growth trends.
 Generated summary statistics and visualizations.
 
